@@ -1,0 +1,12 @@
+total 4.0K
+-rw-r--r-- 1 emily 197610 6 Nov  2 20:00 README.md
+-rw-r--r-- 1 emily 197610 6 Nov  2 20:00 classification_experiment.py
+-rw-r--r-- 1 emily 197610 0 Nov  2 20:02 file_list.txt
+-rw-r--r-- 1 emily 197610 6 Nov  2 20:01 hello_world
+-rw-r--r-- 1 emily 197610 6 Nov  2 20:02 test.sh
+total 5.0K
+-rw-r--r-- 1 emily 197610   6 Nov  2 20:00 README.md
+-rw-r--r-- 1 emily 197610   6 Nov  2 20:00 classification_experiment.py
+-rw-r--r-- 1 emily 197610 289 Nov  2 20:02 file_list.txt
+-rw-r--r-- 1 emily 197610   6 Nov  2 20:01 hello_world
+-rw-r--r-- 1 emily 197610   6 Nov  2 20:02 test.sh
